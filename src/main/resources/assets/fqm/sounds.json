@@ -1,0 +1,10 @@
+{
+  "entity.fqm.funny_projectile.throw": {
+    "sounds": [
+      {
+        "name": "entity.egg.throw",
+        "type": "event"
+      }
+    ]
+  }
+}

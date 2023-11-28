@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "fqm:funny_item"
+    }
+  ],
+  "result": {
+    "item": "fqm:funny_arrow"
+  },
+  "show_notification": true
+}
